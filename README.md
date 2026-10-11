@@ -24,7 +24,7 @@ and powered by ecoin cell batteries
 ![PCB](images/PCB.png)
 
 ## 3D View
-![3D view](images/3D_View.png)
+![3D view](images/3D View.png)
 
 ## Slack
 @varvarakarenski
