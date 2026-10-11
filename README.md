@@ -18,13 +18,13 @@ and powered by ecoin cell batteries
 | LM555 timer (DIP-8) | | 1 |
 
 ## Schematic
-![Schematic](images/Schematic)
+![Schematic](images/Schematic.png)
 
 ## PCB
-![PCB](images/PCB)
+![PCB](images/PCB.png)
 
 ## 3D View
-![3D view](images/3D_View)
+![3D view](images/3D_View.png)
 
 ## Slack
 @varvarakarenski
