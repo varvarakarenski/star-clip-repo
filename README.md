@@ -1,8 +1,11 @@
 # star-clip
 
 KiCad files for a PCB hair clip I designed. I thought this would be a cute 'woman-in-STEM' accessory.
-What it is: a star-shaped clip with 6 LEDs that blink, driven by a 555 timer
+~ What it is: a star-shaped clip with 6 LEDs that blink, driven by a 555 timer
 and powered by ecoin cell batteries
+~ Cute features: Some of the code from my personal projects! (syntax neglected in favor of aesthetics) 
+  Contains Python from my data analysis script for ion propulsion research, and JS from my iss-tracker project.
+~ Made on earth by humans.
 
 ## BOM
 
